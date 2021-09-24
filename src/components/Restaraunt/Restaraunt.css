@@ -1,0 +1,15 @@
+.restaraunt-item{
+    display: flex;
+    width: 90%;
+    align-items: center;
+}
+
+.info-wrapper {
+    display: block;
+    width: 20%;
+    padding-left: 50px;
+}
+.menu-rewievs-wrapper {
+    width: 30%;
+    margin-left: auto;
+}
